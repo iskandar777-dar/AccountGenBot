@@ -57,7 +57,7 @@ Welcome To {Config.ACCOUNT_GEN_NAME} Account Generator Bot
 To Know About commands type:
 /cmds
 
-Bot Made With ❤️ By @DevseXpo**
+Bot Made With ❤️ By @kenapatagdar**
 """ 
     await event.reply(user_text) 
     
